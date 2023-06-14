@@ -13,6 +13,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: url(https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80);
+    background: fixed;
 }
 
 .box {
